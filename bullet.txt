@@ -1,0 +1,4 @@
+{"val": "I", "pos": [0, 0], "z": 2, "tag": "", "color": "white"}
+{"val": "I", "pos": [0, 1], "z": 2, "tag": "", "color": "white"}
+{"val": "I", "pos": [1, 0], "z": 2, "tag": "", "color": "white"}
+{"val": "I", "pos": [1, 1], "z": 2, "tag": "", "color": "white"}
