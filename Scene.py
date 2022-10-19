@@ -52,7 +52,6 @@ class Scene:
                 t.append("\n")
                 temp.append(t)
             
-            print(temp)
             self.output = temp
     
     def getObjIndex(self, _tag):
